@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://adamdyra1-collab.github.io/mojabloga/sitemap.xml
