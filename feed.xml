@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Dobry Smartwatch</title>
-    <link href="https://adamdyra1-collab.github.io/mojabloga/feed.xml" rel="self" />
-    <link href="https://adamdyra1-collab.github.io/mojabloga" />
+    <link href="https://dobrysmartwatch.pl/feed.xml" rel="self" />
+    <link href="https://dobrysmartwatch.pl" />
     <updated>2025-11-11T18:49:26+01:00</updated>
     <author>
         <name>Redakcja Dobry Smartwatch</name>
     </author>
-    <id>https://adamdyra1-collab.github.io/mojabloga</id>
+    <id>https://dobrysmartwatch.pl</id>
 
     <entry>
         <title>Dobry Smartwatch - Smartwatch Giewont Opinie</title>
         <author>
             <name>Redakcja Dobry Smartwatch</name>
         </author>
-        <link href="https://adamdyra1-collab.github.io/mojabloga/smartwatch-giewont-opinie.html"/>
-        <id>https://adamdyra1-collab.github.io/mojabloga/smartwatch-giewont-opinie.html</id>
-        <media:content url="https://adamdyra1-collab.github.io/mojabloga/media/posts/1/hunyuan-image-3.0_a_smartwatch_giewont-2.png" medium="image" />
+        <link href="https://dobrysmartwatch.pl/smartwatch-giewont-opinie.html"/>
+        <id>https://dobrysmartwatch.pl/smartwatch-giewont-opinie.html</id>
+        <media:content url="https://dobrysmartwatch.pl/media/posts/1/hunyuan-image-3.0_a_smartwatch_giewont-2.png" medium="image" />
             <category term="smartwatch Giewont,"/>
             <category term="recenzje,"/>
             <category term="opinie,"/>
@@ -25,13 +25,13 @@
         <updated>2025-11-11T16:33:16+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://adamdyra1-collab.github.io/mojabloga/media/posts/1/hunyuan-image-3.0_a_smartwatch_giewont-2.png" alt="" />
+                        <img src="https://dobrysmartwatch.pl/media/posts/1/hunyuan-image-3.0_a_smartwatch_giewont-2.png" alt="" />
                     Czym Jest Smartwatch Giewont? W dobie cyfryzacji smartwatche stały się nieodłącznym elementem naszej codzienności. Wśród marek oferujących inteligentne zegarki, Giewont wyróżnia się jako polski producent, który dostarcza urządzenia o konkurencyjnym stosunku jakości do ceny. Dziś przyjrzymy się bliżej dwóm popularnym modelom: GW430 oraz GW120-2. Smartwatch&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://adamdyra1-collab.github.io/mojabloga/media/posts/1/hunyuan-image-3.0_a_smartwatch_giewont-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://dobrysmartwatch.pl/media/posts/1/hunyuan-image-3.0_a_smartwatch_giewont-2.png" class="type:primaryImage" alt="" /></p>
                 <h2>Czym Jest Smartwatch Giewont?</h2>
 <p>W dobie cyfryzacji smartwatche stały się nieodłącznym elementem naszej codzienności. Wśród marek oferujących inteligentne zegarki, <strong>Giewont</strong> wyróżnia się jako polski producent, który dostarcza urządzenia o konkurencyjnym stosunku jakości do ceny. Dziś przyjrzymy się bliżej dwóm popularnym modelom: <strong>GW430</strong> oraz <strong>GW120-2</strong>.</p>
 <h2>Model Giewont GW430 - Elegancja i Funkcjonalność</h2>

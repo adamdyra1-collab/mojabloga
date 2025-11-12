@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://adamdyra1-collab.github.io/mojabloga/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://dobrysmartwatch.pl/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://adamdyra1-collab.github.io/mojabloga/</loc>
+<loc>https://dobrysmartwatch.pl/</loc>
 </url>
 <url>
-<loc>https://adamdyra1-collab.github.io/mojabloga/smartwatch-giewont-opinie.html</loc>
+<loc>https://dobrysmartwatch.pl/smartwatch-giewont-opinie.html</loc>
 <lastmod>2025-11-11T18:49:26+01:00</lastmod>
 <image:image>
-<image:loc>https://adamdyra1-collab.github.io/mojabloga/media/posts/1/hunyuan-image-3.0_a_smartwatch_giewont-2.png</image:loc>
+<image:loc>https://dobrysmartwatch.pl/media/posts/1/hunyuan-image-3.0_a_smartwatch_giewont-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
