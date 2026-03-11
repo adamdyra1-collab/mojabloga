@@ -12,13 +12,22 @@
                 }, false);
             }
         }</script><script>document.addEventListener("DOMContentLoaded", function() {
-  const form = document.querySelector(".search form");
-  if(form){
-    form.action="https://www.google.com/search";
-    const input=document.createElement("input");
-    input.type="hidden";
-    input.name="sitesearch";
-    input.value="dobrysmartwatch.pl";
-    form.appendChild(input);
-  }
+
+let form = document.querySelector("form.search-form");
+
+if(!form){
+form = document.querySelector(".search form");
+}
+
+if(form){
+form.action="https://www.google.com/search";
+
+let hidden=document.createElement("input");
+hidden.type="hidden";
+hidden.name="sitesearch";
+hidden.value="dobrysmartwatch.pl";
+
+form.appendChild(hidden);
+}
+
 });</script></body></html>
