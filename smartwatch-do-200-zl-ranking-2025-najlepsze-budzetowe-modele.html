@@ -11,29 +11,14 @@
                     this.classList.add('is-loaded');
                 }, false);
             }
-        }</script><script src="https://unpkg.com/lunr/lunr.js"></script><script>const pages = [
-{title:"Najlepszy smartwatch 2026", url:"/najlepszy-smartwatch", content:"ranking smartwatchy"},
-{title:"Ranking zegarków męskich", url:"/ranking-zegarkow", content:"najlepsze zegarki"}
-];
-
-const idx = lunr(function () {
-  this.ref('url')
-  this.field('title')
-  this.field('content')
-
-  pages.forEach(function (doc) {
-    this.add(doc)
-  }, this)
-});
-
-document.getElementById("searchBox").addEventListener("input", function() {
-  let results = idx.search(this.value);
-  let html = "";
-
-  results.forEach(r => {
-    let page = pages.find(p => p.url === r.ref);
-    html += `<li><a href="${page.url}">${page.title}</a></li>`;
-  });
-
-  document.getElementById("results").innerHTML = html;
+        }</script><script>document.addEventListener("DOMContentLoaded", function() {
+  const form = document.querySelector(".search form");
+  if(form){
+    form.action="https://www.google.com/search";
+    const input=document.createElement("input");
+    input.type="hidden";
+    input.name="sitesearch";
+    input.value="dobrysmartwatch.pl";
+    form.appendChild(input);
+  }
 });</script></body></html>
